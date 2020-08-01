@@ -6,4 +6,3 @@ def square_array(array_numbers)
   new_array
 end
   # your code here
-
