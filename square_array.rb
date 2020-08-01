@@ -4,5 +4,5 @@ end
 def new_array(numbers)
   new_array.each do |numbers|
   new array << number**2
-end 
+end
 returns new_array
